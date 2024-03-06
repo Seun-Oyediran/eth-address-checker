@@ -1,6 +1,6 @@
 {
   "name": "npm-eth-address-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eth address checker",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "url": "https://github.com/Seun-Oyediran/eth-address-checker"
   },
   "author": "Oyediran Seun Stephen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "shawnkelz-utils": "^1.0.2"
+  }
 }
